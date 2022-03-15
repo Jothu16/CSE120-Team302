@@ -12,6 +12,7 @@ bool on = true, off = false;
 // Setting the pin values
 int pump_pin = 14;
 int wind_direction_pin = 13;
+int wind_direction_data = 0;
 
 // Initializing the classes
 Pump test_pump(on);
@@ -27,9 +28,16 @@ void loop() {
     // Baud set to 115200
     Serial.begin(115200);
   
-    // Testing
+    // Testing Pump
     test_pump.set(off);
     test_pump.set(on);
+
+    //Testing the Sensots class
+    wind_direction_data = analogRead(wind_direction_pin); // Reads the sensor values
+    wind_direction_data = map(wind_direction_data, 0, 1023, 0, 255); // Sets a range for the inputs
+    wind_direction.set_data(wind_direction_data);   // Sends the data to be filtered
+    wind_direction_data = wind_direction.get_data(); // Prints the data back out
+    wind_direction.get_type();  // Tells me what sensor it is
 
 
     // Setting a delay so it doesn't overload

@@ -24,6 +24,7 @@ Pump::Pump(int new_pin){
     pinMode(pin, OUTPUT);
     pump_status = false;
     digitalWrite(pin, LOW);
+    Serial.write("Pump has been turned on. Pump is set to off.")
 }
 
 
