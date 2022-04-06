@@ -27,7 +27,6 @@ Pump::Pump(int new_pin){
     Serial.write("Pump has been turned on. Pump is set to off.")
 }
 
-
 void Pump::set(bool set_to){
     // Sets the pump to the input on/off
     pump_status = set_to;
@@ -46,8 +45,10 @@ void Pump::set(bool set_to){
 }
 
 // Returns the pumps status on/off
-bool Pump::get_status(){
-    return  pump_status;
+void Pump::get_status(){
+    Serial.write(pump_status); // Sends the status to the connected computer
+    Serial.print("Pump status: ");
+    Serial.print(pump_status);
 }
 
 //Since it is constantly running, I don't think a deconstructor 
