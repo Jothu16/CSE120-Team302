@@ -45,7 +45,7 @@ void Pump::set(bool set_to){
 }
 
 // Returns the pumps status on/off
-void Pump::get_status(){
+bool Pump::get_status(){
     Serial.write(pump_status); // Sends the status to the connected computer
     Serial.print("Pump status: ");
     Serial.print(pump_status);

@@ -31,7 +31,10 @@ void loop() {
     // Testing Pump
     test_pump.set(off);
     test_pump.set(on);
-    test_pump.get_status();
+    if(test_pump.get_status()){
+        Serial.print("Pump is on");
+        test_pump.set(off);
+    }
 
     // Testing the Sensots class
     wind_direction_data = analogRead(wind_direction_pin); // Reads the sensor values

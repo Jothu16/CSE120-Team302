@@ -42,7 +42,7 @@ void Sensors::set_data(float input){
     // Check the pump warning
 }
 
-void Sensors::get_data(){
+float Sensors::get_data(){
     Serial.write(data); // Sends this to the computer through the port
     Serial.print("Data: ");
     Serial.println(data);
