@@ -7,31 +7,46 @@ class Sensors{
 private:
     int pin;
     float data;
-    String type;
+    String type = "Default";
     bool warning = false;
   
 public:
     // Methods
-    Sensors(String sensor_type, int new_pin); 
+    Sensors(int new_pin);
     String get_type();
     void set_data(float input);
     float get_data();
+    void set_type(String new_type);
+    
 };
 
 // Constructor
-Sensors::Sensors(String sensor_type, int new_pin){
-    // Gets the sensors name and the pin, then starts off the data set to 0 until real data comes in
+//Sensors::Sensors(String sensor_type, int new_pin){
+//    // Gets the sensors name and the pin, then starts off the data set to 0 until real data comes in
+//    pin = new_pin;
+//    pinMode(pin, INPUT);
+//    type = sensor_type;
+//    data = 0;
+//    Serial.print("Created sensor ");
+//    Serial.println(type);
+//}
+
+// Constructor
+Sensors::Sensors(int new_pin){
+    // Gets the pin associated with the pump and sets pump off by default
     pin = new_pin;
-    type = sensor_type;
+    pinMode(pin, INPUT);
     data = 0;
-    Serial.print("Created sensor ");
-    Serial.println(type);
 }
 
 String Sensors::get_type(){
     Serial.print("Type: ");
     Serial.println(type);
     return type;
+}
+
+void Sensors::set_type(String new_type){
+    type = new_type;
 }
 
 void Sensors::set_data(float input){

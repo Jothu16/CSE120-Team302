@@ -11,40 +11,37 @@ bool on = true, off = false;
 
 // Setting the pin values
 int pump_pin = 14;
-int wind_direction_pin = 13;
+int wind_direction_pin = 10;
 int wind_direction_data = 0;
+String sensor1 = "Wind direction";
 
 // Initializing the classes
 Pump test_pump(on);
-Sensors wind_direction("wind direction", wind_direction_pin);
+Sensors wind_direction(wind_direction_pin);
+//Sensors wind_direction(sensor1, wind_direction_pin);
 
 void setup() { 
-    //Setting up the inputs/outputs
-    pinMode(pump_pin, OUTPUT);
-    pinMode(wind_direction_pin, INPUT);
+    // Baud set to 115200
+    Serial.begin(115200);
+    wind_direction.set_type("Wind_direction");
 }
 
 void loop() {
-    // Baud set to 115200
-    Serial.begin(115200);
   
     // Testing Pump
     test_pump.set(off);
     test_pump.set(on);
-    if(test_pump.get_status()){
-        Serial.print("Pump is on");
-        test_pump.set(off);
-    }
+    test_pump.get_status();
 
     // Testing the Sensots class
-    wind_direction_data = analogRead(wind_direction_pin); // Reads the sensor values
-    wind_direction_data = map(wind_direction_data, 0, 1023, 0, 255); // Sets a range for the inputs
-    wind_direction.set_data(wind_direction_data);   // Sends the data to be filtered
+    //wind_direction_data = analogRead(wind_direction_pin); // Reads the sensor values
+    //wind_direction_data = map(wind_direction_data, 0, 1023, 0, 255); // Sets a range for the inputs
+    wind_direction.set_data(analogRead(wind_direction_pin));   // Sends the data to be filtered
     wind_direction.get_data(); // Prints the data back out
     wind_direction.get_type();  // Tells me what sensor it is
 
     // Setting a delay so it doesn't overload
-    delay(500);
+    delay(1000);
 }
 
 /*
