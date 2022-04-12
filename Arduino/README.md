@@ -2,14 +2,18 @@
 This is the running code.
 This **ONLY** runs on the P1AM board.
 This **CANNOT** compile or run in any other IDE, except for the arduino IDE.
-
+To use the P1AM-100, you need to follow the instructions posted on the public GitHub repo to install the board as well as the corresponding library.
 
 ## Pump
 This header file is meant to control the relay connected to the pump.
-
+This holds a constructor as well as a get and set method that can be accessed by main and Sensors.
+The most important part of this is that the pummp class only relies funcitons as a way to use booleans to change the state of the relay attatched to the physical pump. 
+For example, setting the pump to off will set the boolean to false, if the boolean is false then the realy will in turn shut the pump off.
 
 ## Sensor
 This header file is meant to make a class for each input sensor.
+The constructor takes in an integer value of the pin that it is associated with on the P1AM board.
+There is a get and set method for both the type of sensor as well as the data in the sensor respsectively.
 
 
 ## Arduino
@@ -28,25 +32,25 @@ Use the arduino IDE and follow instructions on downloading the library as well a
 ### GPIO Expansion
 
 GPIO Inputs and Outputs
-pin | Functions
-VCC | 3.3V supply output
-DAC0* | GPIO, Analog input, analog output
-A1 | GPIO, Analog input, interrupt
-A2 | GPIO, Analog input, interrupt
-A5 | GPIO, Analog input
-A6 | GPIO, Analog input
-0 | GPIO, PWM, interrupt
-1 | GPIO, PWM, interrupt
-2 | GPIO, PWM, interrupt
-3 | GPIO, PWM, interrupt
-4 | GPIO, PWM, interrupt
-6 | GPIO, PWM, interrupt
-7 | GPIO, PWM, interrupt
-11 | GPIO, SDA
-12 | GPIO, SCL
-13 | GPIO, RX
-14 | GPIO, TX
-GND | Ground
++ pin | Functions
++ VCC | 3.3V supply output
++ DAC0* | GPIO, Analog input, analog output
++ A1 | GPIO, Analog input, interrupt
++ A2 | GPIO, Analog input, interrupt
++ A5 | GPIO, Analog input
++ A6 | GPIO, Analog input
++ 0 | GPIO, PWM, interrupt
++ 1 | GPIO, PWM, interrupt
++ 2 | GPIO, PWM, interrupt
++ 3 | GPIO, PWM, interrupt
++ 4 | GPIO, PWM, interrupt
++ 6 | GPIO, PWM, interrupt
++ 7 | GPIO, PWM, interrupt
++ 11 | GPIO, SDA
++ 12 | GPIO, SCL
++ 13 | GPIO, RX
++ 14 | GPIO, TX
++ GND | Ground
 
 
 ### Ethernet Expansion
