@@ -1,6 +1,6 @@
 import serial
 
-port = "/dev/cu.usbmodemxxx" # Replace the xxx with the arduino serial protected
+port = "/dev/ttyACM0" # Replace the xxx with the arduino serial protected
 fileName = "Data.csv" # This is the file that will store data
 baud = 115200 # Arduino p1am board runs at a baud of 115200
 communication = serial.Serial(port, baud)
