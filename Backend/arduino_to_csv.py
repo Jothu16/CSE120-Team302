@@ -3,14 +3,16 @@ import serial
 port = "/dev/ttyACM0" # Replace the xxx with the arduino serial protected
 fileName = "Data.csv" # This is the file that will store data
 baud = 115200 # Arduino p1am board runs at a baud of 115200
-communication = serial.Serial(port, baud)
+ser = serial.Serial(port, baud, timeout = 1)
+# communication = ser.readline().decode('utf-8')
 sample_size = 100 
 current_data = 0
 
 
 while current_data <= sample_size: # Only takes in 100 inputs as a start
-    arduino_data = str(communication.readline()) # Gets the data from the arduino and converts to string
-    data = arduino_data[0:][:-2]
+    communication = ser.readline().decode('utf-8')
+    arduino_data = str(communication) # Gets the data from the arduino and converts to string
+    data = arduino_data
     file = open(fileName, "a")  # Stores the data in the file
     file.write(data + " ")
     current_data += 1   # Increases the count
