@@ -1,0 +1,783 @@
+﻿uniname,sponame,Name,name,Uni_name,City,Student_pop,Public,City_pop,Cost,username,password,email,dob,hsgraddate,gpa,state,city,major,Uniname,Majorname
+"University of California, Berkeley",American Football,,,,,,,,,,,,,,,,,,,
+"University of California, Berkeley",Basketball,,,,,,,,,,,,,,,,,,,
+"University of California, Davis",Baseball,,,,,,,,,,,,,,,,,,,
+"University of California, Davis",American Football,,,,,,,,,,,,,,,,,,,
+"University of California, Irvine",Soccer,,,,,,,,,,,,,,,,,,,
+"University of California, Irvine",Basketball,,,,,,,,,,,,,,,,,,,
+"University of California, Los Angeles",Volleyball,,,,,,,,,,,,,,,,,,,
+"University of California, Los Angeles",Tennis,,,,,,,,,,,,,,,,,,,
+"University of California, Merced",Cross Country,,,,,,,,,,,,,,,,,,,
+"University of California, Merced",Swimming,,,,,,,,,,,,,,,,,,,
+"University of California, Riverside",Table Tennis,,,,,,,,,,,,,,,,,,,
+"University of California, Riverside",Soccer,,,,,,,,,,,,,,,,,,,
+"University of California, San Diego",Basketball,,,,,,,,,,,,,,,,,,,
+"University of California, San Diego",Track,,,,,,,,,,,,,,,,,,,
+"University of California, Santa Barbara",Badminton,,,,,,,,,,,,,,,,,,,
+"University of California, Santa Barbara",Soccer,,,,,,,,,,,,,,,,,,,
+"University of California, Santa Cruz",Volleyball,,,,,,,,,,,,,,,,,,,
+"University of California, Santa Cruz",Basketball,,,,,,,,,,,,,,,,,,,
+California State University Maritime Academy,Swimming,,,,,,,,,,,,,,,,,,,
+California State University Maritime Academy,Track,,,,,,,,,,,,,,,,,,,
+California Polytechnic State University,American Football,,,,,,,,,,,,,,,,,,,
+California Polytechnic State University,Swimming,,,,,,,,,,,,,,,,,,,
+"California State University, Bakersfield",Tennis,,,,,,,,,,,,,,,,,,,
+"California State University, Bakersfield",Cross Country,,,,,,,,,,,,,,,,,,,
+California State University Channel Islands,Badminton,,,,,,,,,,,,,,,,,,,
+California State University Channel Islands,Soccer,,,,,,,,,,,,,,,,,,,
+"California State University, Chico",Soccer,,,,,,,,,,,,,,,,,,,
+"California State University, Chico",Hockey,,,,,,,,,,,,,,,,,,,
+"California State University, Dominguez Hills",American Football,,,,,,,,,,,,,,,,,,,
+"California State University, Dominguez Hills",Volleyball,,,,,,,,,,,,,,,,,,,
+"California State University, East Bay",American Football,,,,,,,,,,,,,,,,,,,
+"California State University, East Bay",Basketball,,,,,,,,,,,,,,,,,,,
+"California State University, Fresno",Track,,,,,,,,,,,,,,,,,,,
+"California State University, Fresno",Soccer,,,,,,,,,,,,,,,,,,,
+"California State University, Fullerton",Volleyball,,,,,,,,,,,,,,,,,,,
+"California State University, Fullerton",Tennis,,,,,,,,,,,,,,,,,,,
+"California State University, Long Beach",Table Tennis,,,,,,,,,,,,,,,,,,,
+"California State University, Long Beach",Track,,,,,,,,,,,,,,,,,,,
+"California State University, Los Angeles",Handball,,,,,,,,,,,,,,,,,,,
+"California State University, Los Angeles",Swimming,,,,,,,,,,,,,,,,,,,
+"California State University, Monterey Bay",Track,,,,,,,,,,,,,,,,,,,
+"California State University, Monterey Bay",Tennis,,,,,,,,,,,,,,,,,,,
+"California State University, Northridge",Basketball,,,,,,,,,,,,,,,,,,,
+"California State University, Northridge",Basketball,,,,,,,,,,,,,,,,,,,
+"California State University, Sacramento",Basketball,,,,,,,,,,,,,,,,,,,
+"California State University, Sacramento",American Football,,,,,,,,,,,,,,,,,,,
+"California State University, San Bernardino",American Football,,,,,,,,,,,,,,,,,,,
+"California State University, San Bernardino",Soccer,,,,,,,,,,,,,,,,,,,
+"California State University, San Marcos",Soccer,,,,,,,,,,,,,,,,,,,
+"California State University, San Marcos",Badminton,,,,,,,,,,,,,,,,,,,
+"California State University, Stanislaus",Hockey,,,,,,,,,,,,,,,,,,,
+"California State University, Stanislaus",Handball,,,,,,,,,,,,,,,,,,,
+Humboldt State University,golf,,,,,,,,,,,,,,,,,,,
+Humboldt State University,fencing,,,,,,,,,,,,,,,,,,,
+San Diego State University,lacrosse,,,,,,,,,,,,,,,,,,,
+San Diego State University,gymnastic,,,,,,,,,,,,,,,,,,,
+San Francisco State University,rowing,,,,,,,,,,,,,,,,,,,
+San Francisco State University,water polo,,,,,,,,,,,,,,,,,,,
+San Jose State University,Track,,,,,,,,,,,,,,,,,,,
+San Jose State University,Handball,,,,,,,,,,,,,,,,,,,
+Sonoma State University,Swimming,,,,,,,,,,,,,,,,,,,
+Sonoma State University,Track,,,,,,,,,,,,,,,,,,,
+"University of California, Hasting College of the Law",Tennis,,,,,,,,,,,,,,,,,,,
+"University of California, Hasting College of the Law",Basketball,,,,,,,,,,,,,,,,,,,
+"University of California, San Francisco",Basketball,,,,,,,,,,,,,,,,,,,
+"University of California, San Francisco",Basketball,,,,,,,,,,,,,,,,,,,
+Azusa Pacific University,American Football,,,,,,,,,,,,,,,,,,,
+Azusa Pacific University,American Football,,,,,,,,,,,,,,,,,,,
+Biola University,Soccer,,,,,,,,,,,,,,,,,,,
+Biola University,Soccer,,,,,,,,,,,,,,,,,,,
+California Institute of Technology,Volleyball,,,,,,,,,,,,,,,,,,,
+California Institute of Technology,Tennis,,,,,,,,,,,,,,,,,,,
+Chapman University,Cross Country,,,,,,,,,,,,,,,,,,,
+Chapman University,Swimming,,,,,,,,,,,,,,,,,,,
+Fresno Pacific University,Table Tennis,,,,,,,,,,,,,,,,,,,
+Fresno Pacific University,Soccer,,,,,,,,,,,,,,,,,,,
+Golden Gate University,Basketball,,,,,,,,,,,,,,,,,,,
+Golden Gate University,Track,,,,,,,,,,,,,,,,,,,
+Holy Names University,Badminton,,,,,,,,,,,,,,,,,,,
+Holy Names University,Soccer,,,,,,,,,,,,,,,,,,,
+La Sierra University,Volleyball,,,,,,,,,,,,,,,,,,,
+La Sierra University,Tennis,,,,,,,,,,,,,,,,,,,
+Occidental College,Cross Country,,,,,,,,,,,,,,,,,,,
+Occidental College,Swimming,,,,,,,,,,,,,,,,,,,
+Palo Alto University,Table Tennis,,,,,,,,,,,,,,,,,,,
+Palo Alto University,Soccer,,,,,,,,,,,,,,,,,,,
+Santa Clara University,Basketball,,,,,,,,,,,,,,,,,,,
+Santa Clara University,Track,,,,,,,,,,,,,,,,,,,
+Stanford University,Badminton,,,,,,,,,,,,,,,,,,,
+Stanford University,Soccer,,,,,,,,,,,,,,,,,,,
+University of Southern California,Volleyball,,,,,,,,,,,,,,,,,,,
+University of Southern California,Basketball,,,,,,,,,,,,,,,,,,,
+Whitter College,Swimming,,,,,,,,,,,,,,,,,,,
+Whitter College,Swimming,,,,,,,,,,,,,,,,,,,
+University of La Verne,Table Tennis,,,,,,,,,,,,,,,,,,,
+University of La Verne,Soccer,,,,,,,,,,,,,,,,,,,
+,,Business and Management,,,,,,,,,,,,,,,,,,
+,,Nursing,,,,,,,,,,,,,,,,,,
+,,Psychology,,,,,,,,,,,,,,,,,,
+,,Biology,,,,,,,,,,,,,,,,,,
+,,Engineering,,,,,,,,,,,,,,,,,,
+,,Education,,,,,,,,,,,,,,,,,,
+,,Communications,,,,,,,,,,,,,,,,,,
+,,Finance and Accounting,,,,,,,,,,,,,,,,,,
+,,Criminal Justice,,,,,,,,,,,,,,,,,,
+,,Anthropology,,,,,,,,,,,,,,,,,,
+,,Computer Science,,,,,,,,,,,,,,,,,,
+,,English,,,,,,,,,,,,,,,,,,
+,,Economics,,,,,,,,,,,,,,,,,,
+,,Political Science,,,,,,,,,,,,,,,,,,
+,,History,,,,,,,,,,,,,,,,,,
+,,Kinesiology and Physical Therapy,,,,,,,,,,,,,,,,,,
+,,Art,,,,,,,,,,,,,,,,,,
+,,Math,,,,,,,,,,,,,,,,,,
+,,Environmental Science,,,,,,,,,,,,,,,,,,
+,,Foreign Languages,,,,,,,,,,,,,,,,,,
+,,Chemistry,,,,,,,,,,,,,,,,,,
+,,Agricultural Sciences,,,,,,,,,,,,,,,,,,
+,,Food and Nutrition,,,,,,,,,,,,,,,,,,
+,,Music,,,,,,,,,,,,,,,,,,
+,,Architecture,,,,,,,,,,,,,,,,,,
+,,Sociology,,,,,,,,,,,,,,,,,,
+,,Drama,,,,,,,,,,,,,,,,,,
+,,,American Football,,,,,,,,,,,,,,,,,
+,,,Basketball,,,,,,,,,,,,,,,,,
+,,,Soccer,,,,,,,,,,,,,,,,,
+,,,Volleyball,,,,,,,,,,,,,,,,,
+,,,Tennis,,,,,,,,,,,,,,,,,
+,,,Cross Country,,,,,,,,,,,,,,,,,
+,,,Swimming,,,,,,,,,,,,,,,,,
+,,,Table Tennis,,,,,,,,,,,,,,,,,
+,,,Track,,,,,,,,,,,,,,,,,
+,,,Badminton,,,,,,,,,,,,,,,,,
+,,,Hockey,,,,,,,,,,,,,,,,,
+,,,Handball,,,,,,,,,,,,,,,,,
+,,,golf,,,,,,,,,,,,,,,,,
+,,,fencing,,,,,,,,,,,,,,,,,
+,,,lacrosse,,,,,,,,,,,,,,,,,
+,,,gymnastic,,,,,,,,,,,,,,,,,
+,,,rowing,,,,,,,,,,,,,,,,,
+,,,water polo,,,,,,,,,,,,,,,,,
+,,,,"University of California, Berkeley",Berkeley,41910.0,1.0,121485.0,39376.0,,,,,,,,,,,
+,,,,"University of California, Davis",Davis,35186.0,1.0,68543.0,35935.0,,,,,,,,,,,
+,,,,"University of California, Irvine",Irvine,33467.0,1.0,273157.0,35363.0,,,,,,,,,,,
+,,,,"University of California, Los Angeles",Los Angeles,44947.0,1.0,3967000.0,35793.0,,,,,,,,,,,
+,,,,"University of California, Merced",Merced,8321.0,1.0,82662.0,35973.0,,,,,,,,,,,
+,,,,"University of California, Riverside",Riverside,21539.0,1.0,326414.0,35387.0,,,,,,,,,,,
+,,,,"University of California, San Diego",San Diego,35821.0,1.0,1410000.0,33849.0,,,,,,,,,,,
+,,,,"University of California, Santa Barbara",Santa Barbara,24346.0,1.0,91376.0,36765.0,,,,,,,,,,,
+,,,,"University of California, Santa Cruz",Santa Cruz,19457.0,1.0,64522.0,37297.0,,,,,,,,,,,
+,,,,California State University Maritime Academy,Vallejo,1120.0,1.0,121267.0,28403.0,,,,,,,,,,,
+,,,,California Polytechnic State University,San Luis Obispo,22440.0,1.0,47302.0,28927.0,,,,,,,,,,,
+,,,,"California State Polytechnic University, Pomona",Pomona,27911.0,1.0,152209.0,28542.0,,,,,,,,,,,
+,,,,"California State University, Bakersfield",Barkersfield,11397.0,1.0,377917.0,25031.0,,,,,,,,,,,
+,,,,California State University Channel Islands,Camarillo,6943.0,1.0,68122.0,28966.0,,,,,,,,,,,
+,,,,"California State University, Chico",Chico,16746.0,1.0,64529.0,25994.0,,,,,,,,,,,
+,,,,"California State University, Dominguez Hills",Carson,18687.0,1.0,92079.0,24533.0,,,,,,,,,,,
+,,,,"California State University, East Bay",Hayward,16064.0,1.0,159293.0,27248.0,,,,,,,,,,,
+,,,,"California State University, Fresno",Fresno,22611.0,1.0,525010.0,21716.0,,,,,,,,,,,
+,,,,"California State University, Fullerton",Fullerton,42051.0,1.0,139611.0,28043.0,,,,,,,,,,,
+,,,,"California State University, Long Beach",Long Beach,38674.0,1.0,466776.0,25258.0,,,,,,,,,,,
+,,,,"California State University, Los Angeles",Los Angeles,26745.0,1.0,3967000.0,28027.0,,,,,,,,,,,
+,,,,"California State University, Monterey Bay",Seaside-Marina,6871.0,1.0,22781.0,24778.0,,,,,,,,,,,
+,,,,"California State University, Northridge",Northridge,34741.0,1.0,70653.0,23654.0,,,,,,,,,,,
+,,,,"California State University, Sacramento",Sacramento,28697.0,1.0,500930.0,27130.0,,,,,,,,,,,
+,,,,"California State University, San Bernardino",San Bernardino,19182.0,1.0,216089.0,24860.0,,,,,,,,,,,
+,,,,"California State University, San Marcos",San Marcos,14643.0,1.0,95355.0,25925.0,,,,,,,,,,,
+,,,,"California State University, Stanislaus",Turlock,11163.0,1.0,72904.0,22824.0,,,,,,,,,,,
+,,,,Humboldt State University,Arcata,5869.0,1.0,18178.0,25344.0,,,,,,,,,,,
+,,,,San Diego State University,San Diego,31086.0,1.0,1410000.0,30522.0,,,,,,,,,,,
+,,,,San Francisco State University,San Francisco,24025.0,1.0,874961.0,26987.0,,,,,,,,,,,
+,,,,San Jose State University,San Jose,36000.0,1.0,1028000.0,30065.0,,,,,,,,,,,
+,,,,Sonoma State University,Rohnert Park,7255.0,1.0,42902.0,24667.0,,,,,,,,,,,
+,,,,"University of California, Hasting College of the Law",San Francisco,930.0,1.0,874961.0,44628.0,,,,,,,,,,,
+,,,,"University of California, San Francisco",San Francisco,5825.0,1.0,874961.0,69612.0,,,,,,,,,,,
+,,,,Azusa Pacific University,Azusa,10020.0,0.0,49753.0,56826.0,,,,,,,,,,,
+,,,,Biola University ,La Mirada,6222.0,0.0,48764.0,59176.0,,,,,,,,,,,
+,,,,California Institute of Technology,Pasadena,2238.0,0.0,141258.0,74763.0,,,,,,,,,,,
+,,,,Chapman University,Orange,8305.0,0.0,139887.0,75112.0,,,,,,,,,,,
+,,,,Fresno Pacific University,Fresno,3603.0,0.0,525010.0,47196.0,,,,,,,,,,,
+,,,,Golden Gate University,San Francisco,2472.0,0.0,874961.0,16095.0,,,,,,,,,,,
+,,,,Holy Names University,Oakland,1331.0,0.0,425097.0,59385.0,,,,,,,,,,,
+,,,,La Sierra University,Riverside,2303.0,0.0,326414.0,47883.0,,,,,,,,,,,
+,,,,Occidental College,Los Angeles,2055.0,0.0,3967000.0,76600.0,,,,,,,,,,,
+,,,,Palo Alto University,Palo Alto,9368.0,0.0,66573.0,21750.0,,,,,,,,,,,
+,,,,Santa Clara University,Santa Clara,9015.0,0.0,127721.0,74829.0,,,,,,,,,,,
+,,,,Stanford University,Stanford,16914.0,0.0,16326.0,74570.0,,,,,,,,,,,
+,,,,University of Southern California,Los Angeles,44000.0,0.0,3967000.0,77459.0,,,,,,,,,,,
+,,,,Whitter College,Whittier,1700.0,0.0,86090.0,65668.0,,,,,,,,,,,
+,,,,University of La Verne,La Verne,4883.0,0.0,32211.0,64050.0,,,,,,,,,,,
+,,,,,,,,,,ayobobby,starwars1234,,,,,,,,,
+,,,,,,,,,,mildred,marvelfan12,,,,,,,,,
+,,,,,,,,,,randomrandom,password1234,,,,,,,,,
+,,,,,,,,,,arianabig,wassup0000,,,,,,,,,
+,,,,,,,,,,champagnepapi,Marvinsroom,,,,,,,,,
+,,,,,,,,,,dontworryaboutit,toess1234,,,,,,,,,
+,,,,,,,,,,eric,ucmerced1234,,,,,,,,,
+,,,,,,,,,,johnsno,1234ucmerced,,,,,,,,,
+,,,,,,,,,,moldybread,Lexuspass,,,,,,,,,
+,,,,,,,,,,useruser,theboiuser,,,,,,,,,
+,,,,,,,,,,JohnCena,Youcantseeme,,,,,,,,,
+,,,,,,,,,,lilDurk,laughnow,,,,,,,,,
+,,,,,,,,,,Beyonce,totheleft,,,,,,,,,
+,,,,,,,,,,rock,asap,,,,,,,,,
+,,,,,,,,,,baa_sheep,floridawomen,,,,,,,,,
+,,,,,,,,,,ayobobby,starwars1234,ayo@bobby.com,12-31-99,5-20-17,3.0,CA,San Jose,Computer Science,,
+,,,,,,,,,,mildred,marvelfan12,mildred@marvel.com,12-31-00,5-22-18,4.0,CA,Santa Clara,Biology,,
+,,,,,,,,,,randomrandom,password1234,radom@password.com,1-22-01,5-25-19,3.5,NY,Auburn,Painting,,
+,,,,,,,,,,arianabig,wassup0000,ariana@big.com,4-22-2003,5-20-2021,3.2,NY,New York,Nursing,,
+,,,,,,,,,,champagnepapi,Marvinsroom,champagne@papi.com,7-4-95,5-27-13,2.5,FL,Tampa Bay,Computer Engineering,,
+,,,,,,,,,,dontworryaboutit,toess1234,dont@worry.com,8-14-97,6-5-15,2.2,FL,Miami,Mechanical Engineering,,
+,,,,,,,,,,eric,ucmerced1234,eric@uc.com,6-1-2000,5-22-2018,3.8,CA,San Diego,Pyschology,,
+,,,,,,,,,,johnsno,1234ucmerced,john@sno.com,4-1-00,5-15-18,3.9,CA,Santa Rosa,Computer Science,,
+,,,,,,,,,,moldybread,Lexuspass,moldy@lexus.com,10-05-97,4-29-15,3.3,WA,Seattle,Accounting,,
+,,,,,,,,,,useruser,theboiuser,user@user.com,11-18-2001,6-12-19,3.4,KY,Fried,Business,,
+,,,,,,,,,,JohnCena,Youcantseeme,John@Cena.com,5-12-99,4-29-2017,3.5,VA,San Francisco,Communications,,
+,,,,,,,,,,lilDurk,laughnow,lil@Durk.com,9-30-94,5-5-12,2.7,NJ,Suburbs,Writing,,
+,,,,,,,,,,Beyonce,totheleft,Beyonce@to.com,4-25-99,5-12-2017,3.9,CA,Los Angeles,English,,
+,,,,,,,,,,rock,asap,rock@asap.com,2-15-89,4-15-2007,4.0,CA,Merced,Computer Science,,
+,,,,,,,,,,baa_sheep,floridawomen,baa@florida.com,7-20-00,6-10-2018,4.0,CA,Turlock,Computer Science,,
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Business Administration
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",English
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",History
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Foreign Language
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Chemistry
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Berkeley",Architecture
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Business
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Communications
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",English
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",History
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Foreign Language
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Chemistry
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Agricultural Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Food Science
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Architecture
+,,,,,,,,,,,,,,,,,,,"University of California, Davis",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Business
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Nursing
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Criminal Science
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",English
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",History
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Foreign Language
+,,,,,,,,,,,,,,,,,,,"University of California, Irvine",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Business
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Nursing
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Communications
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",English
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",History
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Los Angeles",Architecture
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Business
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",English
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",History
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Chemistry
+,,,,,,,,,,,,,,,,,,,"University of California, Merced",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Business
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",English
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",History
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Riverside",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Business
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Education
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Communications
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",English
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",History
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Art
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Math
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Foreign Language
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Chemistry
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Music
+,,,,,,,,,,,,,,,,,,,"University of California, San Diego",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Communications
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",English
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Political Science
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",History
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Foreign Language
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Chemistry
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Music
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Architecture
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Barbara",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Psychology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Biology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Engineering
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Education
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Anthropology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",English
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Sociology
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Computer Science
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Economics
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",History
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Art
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Math
+,,,,,,,,,,,,,,,,,,,"University of California, Santa Cruz",Chemistry
+,,,,,,,,,,,,,,,,,,,California State University Maritime Academy,Engineering
+,,,,,,,,,,,,,,,,,,,California State University Maritime Academy,Business
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Business
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Psychology
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Biology
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Engineering
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Communications
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Finance and Accounting
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Criminal Science
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Anthropology
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Computer Science
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,English
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Economics
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Political Science
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,History
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Art
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Math
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Music
+,,,,,,,,,,,,,,,,,,,California Polytechnic State University,Architecture
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Business
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Psychology
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Biology
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Engineering
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Education
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Communications
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",English
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Economics
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Political Science
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",History
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Art
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Math
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Environmental Sciences
+,,,,,,,,,,,,,,,,,,,"California State Polytechnic University, Pomona",Foreign Language
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",English
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",History
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Bakersfield",Environmental Science
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Business and Management
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Nursing
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Psychology
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Biology
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Engineering
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Education
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Communications
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Anthropology
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Computer Science
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,English
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Economics
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Political Science
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,History
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Art
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Math
+,,,,,,,,,,,,,,,,,,,California State University Channel Islands,Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",English
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",History
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Sociology
+,,,,,,,,,,,,,,,,,,,"California State University, Chico",Food and Nutrition
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Business
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Dominguez Hills",Chemistry
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Education
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Food and Nutrition
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Sociology
+,,,,,,,,,,,,,,,,,,,"California State University, East Bay",Music
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Fresno",Food and Nutrition
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",English
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",History
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Fullerton",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",English
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",History
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, Long Beach",Chemistry
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Los Angeles",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Monterey Bay",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",English
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",History
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, Northridge",Chemistry
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",English
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",History
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Sacramento",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Education
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",English
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",History
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Art
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Math
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, San Bernardino",Chemistry
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",History
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Art
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Math
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, San Marcos",Chemistry
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Business and Management
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Nursing
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Psychology
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Biology
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Engineering
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Education
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Communications
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Finance and Accounting
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Criminal Justice
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Anthropology
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Computer Science
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",English
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Economics
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Political Science
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",History
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Art
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Math
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Environmental Science
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Foreign Languages
+,,,,,,,,,,,,,,,,,,,"California State University, Stanislaus",Chemistry
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Business and Management
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Nursing
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Psychology
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Biology
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Engineering
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Education
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Communications
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Anthropology
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Computer Science
+,,,,,,,,,,,,,,,,,,,Humboldt State University,English
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Economics
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Political Science
+,,,,,,,,,,,,,,,,,,,Humboldt State University,History
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Art
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Math
+,,,,,,,,,,,,,,,,,,,Humboldt State University,Environmental Science
+,,,,,,,,,,,,,,,,,,,San Diego State University,Business and Management
+,,,,,,,,,,,,,,,,,,,San Diego State University,Nursing
+,,,,,,,,,,,,,,,,,,,San Diego State University,Psychology
+,,,,,,,,,,,,,,,,,,,San Diego State University,Biology
+,,,,,,,,,,,,,,,,,,,San Diego State University,Engineering
+,,,,,,,,,,,,,,,,,,,San Diego State University,Education
+,,,,,,,,,,,,,,,,,,,San Diego State University,Communications
+,,,,,,,,,,,,,,,,,,,San Diego State University,Finance and Accounting
+,,,,,,,,,,,,,,,,,,,San Diego State University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,San Diego State University,Anthropology
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Business and Management
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Nursing
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Psychology
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Biology
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Engineering
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Education
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Communications
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Finance and Accounting
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Anthropology
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Computer Science
+,,,,,,,,,,,,,,,,,,,San Francisco State University,English
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Economics
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Political Science
+,,,,,,,,,,,,,,,,,,,San Francisco State University,History
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Art
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Math
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Environmental Science
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Foreign Languages
+,,,,,,,,,,,,,,,,,,,San Francisco State University,Chemistry
+,,,,,,,,,,,,,,,,,,,San Jose State University,Business and Management
+,,,,,,,,,,,,,,,,,,,San Jose State University,Nursing
+,,,,,,,,,,,,,,,,,,,San Jose State University,Psychology
+,,,,,,,,,,,,,,,,,,,San Jose State University,Biology
+,,,,,,,,,,,,,,,,,,,San Jose State University,Engineering
+,,,,,,,,,,,,,,,,,,,San Jose State University,Education
+,,,,,,,,,,,,,,,,,,,San Jose State University,Communications
+,,,,,,,,,,,,,,,,,,,San Jose State University,Finance and Accounting
+,,,,,,,,,,,,,,,,,,,San Jose State University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,San Jose State University,Anthropology
+,,,,,,,,,,,,,,,,,,,San Jose State University,Computer Science
+,,,,,,,,,,,,,,,,,,,San Jose State University,English
+,,,,,,,,,,,,,,,,,,,San Jose State University,Economics
+,,,,,,,,,,,,,,,,,,,San Jose State University,Political Science
+,,,,,,,,,,,,,,,,,,,San Jose State University,History
+,,,,,,,,,,,,,,,,,,,San Jose State University,Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,San Jose State University,Art
+,,,,,,,,,,,,,,,,,,,San Jose State University,Math
+,,,,,,,,,,,,,,,,,,,San Jose State University,Environmental Science
+,,,,,,,,,,,,,,,,,,,San Jose State University,Foreign Languages
+,,,,,,,,,,,,,,,,,,,San Jose State University,Chemistry
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Business and Management
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Nursing
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Psychology
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Biology
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Engineering
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Education
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Communications
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Finance and Accounting
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Anthropology
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Computer Science
+,,,,,,,,,,,,,,,,,,,Sonoma State University,English
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Economics
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Political Science
+,,,,,,,,,,,,,,,,,,,Sonoma State University,History
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Kinesiology and Physical Therapy
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Art
+,,,,,,,,,,,,,,,,,,,Sonoma State University,Math
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Nursing
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Biology
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Engineering
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Music Education
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Communication Management
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Finance
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Accounting
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Criminal Justice
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Computer Science
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,English
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Business Economics Major
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Politcal Science
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,History
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Kinesiology
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Art
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Mathematics
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Spanish
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Chemistry
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Music
+,,,,,,,,,,,,,,,,,,,Azusa Pacific University,Sociology
+,,,,,,,,,,,,,,,,,,,Biola University ,Business Administration
+,,,,,,,,,,,,,,,,,,,Biola University ,Nursing
+,,,,,,,,,,,,,,,,,,,Biola University ,Psychology
+,,,,,,,,,,,,,,,,,,,Biola University ,Biology
+,,,,,,,,,,,,,,,,,,,Biola University ,Engineering Physics
+,,,,,,,,,,,,,,,,,,,Biola University ,Education
+,,,,,,,,,,,,,,,,,,,Biola University ,Communication Studies
+,,,,,,,,,,,,,,,,,,,Biola University ,Finance
+,,,,,,,,,,,,,,,,,,,Biola University ,Accounting
+,,,,,,,,,,,,,,,,,,,Biola University ,Anthropology
+,,,,,,,,,,,,,,,,,,,Biola University ,Computer Science
+,,,,,,,,,,,,,,,,,,,Biola University ,English
+,,,,,,,,,,,,,,,,,,,Biola University ,Political Science
+,,,,,,,,,,,,,,,,,,,Biola University ,History
+,,,,,,,,,,,,,,,,,,,Biola University ,Kinesiology
+,,,,,,,,,,,,,,,,,,,Biola University ,Art
+,,,,,,,,,,,,,,,,,,,Biola University ,Mathematics
+,,,,,,,,,,,,,,,,,,,Biola University ,Environmental Science
+,,,,,,,,,,,,,,,,,,,Biola University ,Spanish
+,,,,,,,,,,,,,,,,,,,Biola University ,Chemistry
+,,,,,,,,,,,,,,,,,,,Biola University ,Music
+,,,,,,,,,,,,,,,,,,,Biola University ,Sociology

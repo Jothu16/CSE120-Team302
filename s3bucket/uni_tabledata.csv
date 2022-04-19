@@ -1,0 +1,50 @@
+Uni_name,City,Student_pop,Public,City_pop,Cost
+"University of California, Berkeley",Berkeley,41910,1,121485,39376
+"University of California, Davis",Davis,35186,1,68543,35935
+"University of California, Irvine",Irvine,33467,1,273157,35363
+"University of California, Los Angeles",Los Angeles,44947,1,3967000,35793
+"University of California, Merced",Merced,8321,1,82662,35973
+"University of California, Riverside",Riverside,21539,1,326414,35387
+"University of California, San Diego",San Diego,35821,1,1410000,33849
+"University of California, Santa Barbara",Santa Barbara,24346,1,91376,36765
+"University of California, Santa Cruz",Santa Cruz,19457,1,64522,37297
+California State University Maritime Academy,Vallejo,1120,1,121267,28403
+California Polytechnic State University,San Luis Obispo,22440,1,47302,28927
+"California State Polytechnic University, Pomona",Pomona,27911,1,152209,28542
+"California State University, Bakersfield",Barkersfield,11397,1,377917,25031
+California State University Channel Islands,Camarillo,6943,1,68122,28966
+"California State University, Chico",Chico,16746,1,64529,25994
+"California State University, Dominguez Hills",Carson,18687,1,92079,24533
+"California State University, East Bay",Hayward,16064,1,159293,27248
+"California State University, Fresno",Fresno,22611,1,525010,21716
+"California State University, Fullerton",Fullerton,42051,1,139611,28043
+"California State University, Long Beach",Long Beach,38674,1,466776,25258
+"California State University, Los Angeles",Los Angeles,26745,1,3967000,28027
+"California State University, Monterey Bay",Seaside-Marina,6871,1,22781,24778
+"California State University, Northridge",Northridge,34741,1,70653,23654
+"California State University, Sacramento",Sacramento,28697,1,500930,27130
+"California State University, San Bernardino",San Bernardino,19182,1,216089,24860
+"California State University, San Marcos",San Marcos,14643,1,95355,25925
+"California State University, Stanislaus",Turlock,11163,1,72904,22824
+Humboldt State University,Arcata,5869,1,18178,25344
+San Diego State University,San Diego,31086,1,1410000,30522
+San Francisco State University,San Francisco,24025,1,874961,26987
+San Jose State University,San Jose,36000,1,1028000,30065
+Sonoma State University,Rohnert Park,7255,1,42902,24667
+"University of California, Hasting College of the Law",San Francisco,930,1,874961,44628
+"University of California, San Francisco",San Francisco,5825,1,874961,69612
+Azusa Pacific University,Azusa,10020,0,49753,56826
+Biola University ,La Mirada,6222,0,48764,59176
+California Institute of Technology,Pasadena,2238,0,141258,74763
+Chapman University,Orange,8305,0,139887,75112
+Fresno Pacific University,Fresno,3603,0,525010,47196
+Golden Gate University,San Francisco,2472,0,874961,16095
+Holy Names University,Oakland,1331,0,425097,59385
+La Sierra University,Riverside,2303,0,326414,47883
+Occidental College,Los Angeles,2055,0,3967000,76600
+Palo Alto University,Palo Alto,9368,0,66573,21750
+Santa Clara University,Santa Clara,9015,0,127721,74829
+Stanford University,Stanford,16914,0,16326,74570
+University of Southern California,Los Angeles,44000,0,3967000,77459
+Whitter College,Whittier,1700,0,86090,65668
+University of La Verne,La Verne,4883,0,32211,64050
