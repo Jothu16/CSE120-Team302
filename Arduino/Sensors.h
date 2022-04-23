@@ -20,6 +20,7 @@ public:
     
 };
 
+// Constructor
 Sensors::Sensors(int new_pin){
     // Gets the pin associated with the pump and sets pump off by default
     pin = new_pin;
@@ -39,6 +40,7 @@ void Sensors::set_type(String new_type){
 
 void Sensors::set_data(){
     // Sets the data as the current data coming in
+    //data = analogRead(wind_direction_pin); // Reads the sensor values
     //data = map(wind_direction_data, 0, 1023, 0, 255); // Sets a range for the inputs
     data = analogRead(pin);
     data = map(data, 0, 1023, 0, 255);
@@ -55,8 +57,9 @@ void Sensors::set_data(){
 }
 
 float Sensors::get_data(){
+    //Serial.write(data); // Sends this to the computer through the port as bytes
     Serial.print("Data: ");
-    Serial.println(data);
+    Serial.print(data);
 }
 
 #endif 
