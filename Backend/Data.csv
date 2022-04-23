@@ -1,102 +1,104 @@
-Pump set to off
- Pump set to on
- Data: 121.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 122.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 123.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 124.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 120.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 123.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 127.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 128.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 126.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 127.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 127.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 128.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 126.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 125.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 125.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 123.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 123.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 127.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 126.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 126.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 83.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 124.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 81.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 125.00
- Type: Wind_direction
- Pump set to off
- Pump set to on
- Data: 120.00
- Type: Wind_direction
- Pump set to off
+Wind direction, Ambient temp, Solar irradiance, Collector inlet, Collector outlet, Tank inlet, Tank outlet, Loop pressure, Flow meter, Wind speed, Pump status
+
+Data: 132.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 115.00, Data: 120.00, Data: 119.00, Data: 116.00, Off
+ Data: 134.00, Data: 134.00, Data: 11.00, Data: 14.00, Data: 130.00, Data: 139.00, Data: 125.00, Data: 119.00, Data: 115.00, Data: 111.00, Off
+ Data: 134.00, Data: 134.00, Data: 14.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 123.00, Data: 117.00, Data: 118.00, Data: 126.00, Off
+ Data: 131.00, Data: 135.00, Data: 12.00, Data: 13.00, Data: 130.00, Data: 138.00, Data: 120.00, Data: 118.00, Data: 123.00, Data: 77.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 122.00, Data: 116.00, Data: 121.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 13.00, Data: 130.00, Data: 138.00, Data: 115.00, Data: 123.00, Data: 124.00, Data: 125.00, Off
+ Data: 133.00, Data: 133.00, Data: 12.00, Data: 15.00, Data: 128.00, Data: 138.00, Data: 125.00, Data: 124.00, Data: 124.00, Data: 125.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 17.00, Data: 129.00, Data: 139.00, Data: 125.00, Data: 116.00, Data: 115.00, Data: 125.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 123.00, Data: 121.00, Data: 126.00, Data: 122.00, Off
+ Data: 133.00, Data: 133.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 138.00, Data: 125.00, Data: 119.00, Data: 120.00, Data: 116.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 127.00, Data: 118.00, Data: 125.00, Data: 118.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 119.00, Data: 124.00, Data: 120.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 137.00, Data: 114.00, Data: 115.00, Data: 126.00, Data: 117.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 119.00, Data: 117.00, Data: 122.00, Data: 118.00, Off
+ Data: 133.00, Data: 132.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 122.00, Data: 127.00, Data: 124.00, Data: 124.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 137.00, Data: 121.00, Data: 124.00, Data: 123.00, Data: 122.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 13.00, Data: 129.00, Data: 139.00, Data: 115.00, Data: 124.00, Data: 126.00, Data: 124.00, Off
+ Data: 133.00, Data: 133.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 126.00, Data: 76.00, Data: 123.00, Data: 125.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 13.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 120.00, Data: 124.00, Data: 122.00, Off
+ Data: 133.00, Data: 134.00, Data: 11.00, Data: 13.00, Data: 130.00, Data: 138.00, Data: 123.00, Data: 115.00, Data: 117.00, Data: 117.00, Off
+ Data: 134.00, Data: 135.00, Data: 11.00, Data: 14.00, Data: 128.00, Data: 138.00, Data: 120.00, Data: 123.00, Data: 121.00, Data: 117.00, Off
+ Data: 132.00, Data: 134.00, Data: 13.00, Data: 14.00, Data: 130.00, Data: 136.00, Data: 115.00, Data: 121.00, Data: 118.00, Data: 124.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 13.00, Data: 130.00, Data: 136.00, Data: 114.00, Data: 119.00, Data: 125.00, Data: 126.00, Off
+ Data: 134.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 138.00, Data: 115.00, Data: 76.00, Data: 120.00, Data: 116.00, Off
+ Data: 134.00, Data: 135.00, Data: 11.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 126.00, Data: 115.00, Data: 114.00, Data: 126.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 117.00, Data: 122.00, Data: 123.00, Data: 119.00, Off
+ Data: 133.00, Data: 133.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 125.00, Data: 120.00, Data: 126.00, Data: 119.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 17.00, Data: 130.00, Data: 138.00, Data: 118.00, Data: 118.00, Data: 121.00, Data: 118.00, Off
+ Data: 134.00, Data: 135.00, Data: 10.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 118.00, Data: 125.00, Data: 123.00, Data: 123.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 114.00, Data: 116.00, Data: 117.00, Data: 119.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 139.00, Data: 118.00, Data: 124.00, Data: 123.00, Data: 125.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 117.00, Data: 124.00, Data: 124.00, Data: 114.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 126.00, Data: 125.00, Data: 126.00, Data: 118.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 121.00, Data: 117.00, Data: 121.00, Data: 122.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 123.00, Data: 116.00, Data: 125.00, Data: 125.00, Off
+ Data: 134.00, Data: 134.00, Data: 14.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 123.00, Data: 124.00, Data: 115.00, Data: 119.00, Off
+ Data: 133.00, Data: 135.00, Data: 14.00, Data: 14.00, Data: 129.00, Data: 138.00, Data: 121.00, Data: 126.00, Data: 121.00, Data: 122.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 115.00, Data: 125.00, Data: 121.00, Data: 117.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 125.00, Data: 125.00, Data: 126.00, Data: 126.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 124.00, Data: 117.00, Data: 120.00, Off
+ Data: 132.00, Data: 135.00, Data: 13.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 113.00, Data: 119.00, Data: 124.00, Data: 114.00, Off
+ Data: 134.00, Data: 133.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 125.00, Data: 127.00, Data: 122.00, Data: 118.00, Off
+ Data: 133.00, Data: 132.00, Data: 12.00, Data: 14.00, Data: 128.00, Data: 138.00, Data: 123.00, Data: 126.00, Data: 125.00, Data: 124.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 120.00, Data: 126.00, Data: 119.00, Data: 115.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 126.00, Data: 120.00, Data: 119.00, Data: 120.00, Off
+ Data: 133.00, Data: 134.00, Data: 11.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 119.00, Data: 125.00, Data: 115.00, Data: 126.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 115.00, Data: 75.00, Data: 122.00, Data: 123.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 127.00, Data: 127.00, Data: 115.00, Data: 126.00, Off
+ Data: 133.00, Data: 134.00, Data: 13.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 127.00, Data: 114.00, Data: 121.00, Data: 123.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 117.00, Data: 121.00, Data: 126.00, Data: 122.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 137.00, Data: 124.00, Data: 126.00, Data: 126.00, Data: 122.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 13.00, Data: 130.00, Data: 138.00, Data: 114.00, Data: 122.00, Data: 126.00, Data: 117.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 122.00, Data: 122.00, Data: 120.00, Off
+ Data: 131.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 138.00, Data: 123.00, Data: 121.00, Data: 119.00, Data: 123.00, Off
+ Data: 133.00, Data: 135.00, Data: 14.00, Data: 13.00, Data: 129.00, Data: 139.00, Data: 123.00, Data: 125.00, Data: 127.00, Data: 118.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 138.00, Data: 125.00, Data: 116.00, Data: 115.00, Data: 114.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 126.00, Data: 125.00, Data: 123.00, Data: 117.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 126.00, Data: 118.00, Data: 75.00, Data: 122.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 12.00, Data: 129.00, Data: 139.00, Data: 125.00, Data: 112.00, Data: 125.00, Data: 124.00, Off
+ Data: 134.00, Data: 134.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 118.00, Data: 125.00, Data: 124.00, Data: 126.00, Off
+ Data: 133.00, Data: 135.00, Data: 13.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 116.00, Data: 122.00, Data: 117.00, Data: 122.00, Off
+ Data: 134.00, Data: 134.00, Data: 11.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 125.00, Data: 125.00, Data: 121.00, Data: 119.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 75.00, Data: 74.00, Data: 112.00, Data: 116.00, Off
+ Data: 133.00, Data: 135.00, Data: 13.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 118.00, Data: 115.00, Data: 123.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 12.00, Data: 128.00, Data: 138.00, Data: 123.00, Data: 118.00, Data: 126.00, Data: 125.00, Off
+ Data: 133.00, Data: 132.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 113.00, Data: 125.00, Data: 113.00, Data: 117.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 123.00, Data: 120.00, Data: 126.00, Data: 126.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 136.00, Data: 122.00, Data: 126.00, Data: 125.00, Data: 121.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 128.00, Data: 139.00, Data: 75.00, Data: 123.00, Data: 126.00, Data: 126.00, Off
+ Data: 133.00, Data: 135.00, Data: 13.00, Data: 14.00, Data: 127.00, Data: 138.00, Data: 120.00, Data: 120.00, Data: 124.00, Data: 77.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 13.00, Data: 130.00, Data: 137.00, Data: 123.00, Data: 126.00, Data: 77.00, Data: 122.00, Off
+ Data: 131.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 120.00, Data: 115.00, Data: 114.00, Data: 119.00, Off
+ Data: 131.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 114.00, Data: 125.00, Data: 122.00, Data: 124.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 127.00, Data: 118.00, Data: 121.00, Data: 124.00, Off
+ Data: 133.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 121.00, Data: 125.00, Data: 121.00, Data: 121.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 121.00, Data: 120.00, Data: 114.00, Data: 125.00, Off
+ Data: 134.00, Data: 135.00, Data: 13.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 125.00, Data: 121.00, Data: 120.00, Data: 126.00, Off
+ Data: 133.00, Data: 134.00, Data: 13.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 123.00, Data: 125.00, Data: 120.00, Data: 120.00, Off
+ Data: 133.00, Data: 134.00, Data: 13.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 121.00, Data: 119.00, Data: 123.00, Data: 123.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 120.00, Data: 119.00, Data: 121.00, Data: 126.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 125.00, Data: 125.00, Data: 114.00, Data: 125.00, Off
+ Data: 131.00, Data: 135.00, Data: 10.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 115.00, Data: 120.00, Data: 118.00, Data: 120.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 127.00, Data: 138.00, Data: 121.00, Data: 117.00, Data: 122.00, Data: 117.00, Off
+ Data: 133.00, Data: 135.00, Data: 13.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 115.00, Data: 125.00, Data: 115.00, Data: 119.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 137.00, Data: 120.00, Data: 120.00, Data: 127.00, Data: 125.00, Off
+ Data: 133.00, Data: 135.00, Data: 14.00, Data: 13.00, Data: 129.00, Data: 139.00, Data: 117.00, Data: 124.00, Data: 74.00, Data: 113.00, Off
+ Data: 134.00, Data: 134.00, Data: 11.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 114.00, Data: 123.00, Data: 115.00, Data: 118.00, Off
+ Data: 132.00, Data: 135.00, Data: 11.00, Data: 16.00, Data: 129.00, Data: 139.00, Data: 118.00, Data: 123.00, Data: 124.00, Data: 121.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 129.00, Data: 139.00, Data: 116.00, Data: 119.00, Data: 122.00, Data: 127.00, Off
+ Data: 133.00, Data: 132.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 117.00, Data: 124.00, Data: 120.00, Data: 119.00, Off
+ Data: 134.00, Data: 135.00, Data: 10.00, Data: 14.00, Data: 130.00, Data: 139.00, Data: 122.00, Data: 76.00, Data: 118.00, Data: 123.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 126.00, Data: 124.00, Data: 126.00, Data: 117.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 138.00, Data: 127.00, Data: 126.00, Data: 124.00, Data: 118.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 117.00, Data: 118.00, Data: 126.00, Data: 117.00, Off
+ Data: 134.00, Data: 135.00, Data: 12.00, Data: 15.00, Data: 130.00, Data: 139.00, Data: 117.00, Data: 122.00, Data: 128.00, Data: 122.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 16.00, Data: 129.00, Data: 138.00, Data: 120.00, Data: 115.00, Data: 122.00, Data: 119.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 14.00, Data: 130.00, Data: 138.00, Data: 124.00, Data: 118.00, Data: 114.00, Data: 113.00, Off
+ Data: 133.00, Data: 134.00, Data: 12.00, Data: 13.00, Data: 129.00, Data: 137.00, Data: 122.00, Data: 126.00, Data: 118.00, Data: 124.00, Off
+ Data: 133.00, Data: 135.00, Data: 11.00, Data: 15.00, Data: 127.00, Data: 138.00, Data: 116.00, Data: 113.00, Data: 117.00, Data: 124.00, Off
+ Data: 132.00, Data: 135.00, Data: 12.00, Data: 14.00, Data: 129.00, Data: 139.00, Data: 119.00, Data: 125.00, Data: 115.00, Data: 122.00, Off
+ Data: 134.00, Data: 135.00, Data: 13.00, Data: 14.00, Data: 130.00, Data: 139.00, Data: 121.00, Data: 128.00, Data: 116.00, Data: 115.00, Off
  
