@@ -55,9 +55,13 @@ HERE ARE THE FOLLOWING CREDENTIALS FOR THIS PROJECT:
 
 ############
 import pandas as pd
+
+##NEW
+from io import StringIO
+
 import glob
 import os
-os.chdir("/Users/ericsolorio/Desktop/s3bucket")
+##os.chdir("/Users/ericsolorio/Desktop/s3bucket")
 import boto3
 from datetime import date
 
@@ -81,12 +85,23 @@ combined_csv.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
 #d1 = today.strftime("%m-%d-%Y")
 
 #calling s3
-#s3 = boto3.client('s3')
+s3 = boto3.client('s3')
 
 
 ##UPLOAD SINGLE FILE
 #s3.upload_file('FILE IN YOUR LOCAL COMPUTER','NAME OF S3 BUCKET','RENAME THE FILE')
 #s3.upload_file('account.csv','optic302',d1)
+#s3.upload_file('/Users/ericsolorio/Desktop/CSE120-Team302/s3bucket/account.csv'.csv,'optic302','test2')
+
+##UPLOAD ATTEMPT TWO
+
+hc = pd.read_csv('account.csv')
+
+csv_buf = StringIO()
+hc.to_csv(csv_buf, header=True, index=False)
+csv_buf.seek(0)
+s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = 'tteesstt.csv')
+
 
 
 ##DOWNLOAD SINGLE FILE
