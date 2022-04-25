@@ -18,7 +18,6 @@ def newFile(file_name):
 
 
 port = "/dev/ttyACM1" # Replace the xxx with the arduino serial protected
-fileName = "Data.csv" # This is the file that will store data
 baud = 115200 # Arduino p1am board runs at a baud of 115200
 ser = serial.Serial(port, baud, timeout = 1)
 
@@ -29,32 +28,33 @@ current_day = today
 fileName = newFile(today)
 s3 = boto3.client('s3')
 
-#while (True): 
+while (True): 
 
-new_time = time.strftime("%H-%M")
-current_time = new_time
+    new_time = time.strftime("%H-%M")
+    current_time = new_time
 
-while (new_time == current_time): # Sends the csv to the s3 bucket once per minute
+    while (new_time == current_time): # Sends the csv to the s3 bucket once per minute
 
-    communication = ser.readline().decode('utf-8')
-    data = str(communication) # Gets the data from the arduino and converts to string
-    file = open(fileName, "a")  # Stores the data in the file
-    file.write(data)
-    current_time = time.strftime("%H-%M") #Updates the minute
+        communication = ser.readline().decode('utf-8')
+        data = str(communication) # Gets the data from the arduino and converts to string
+        file = open(fileName, "a")  # Stores the data in the file
+        file.write(data)
+        current_time = time.strftime("%H-%M") #Updates the minute
 
-file.close()
+    file.close()
 
-hc = pd.read_csv(fileName)
-csv_buf = StringIO()
-hc.to_csv(csv_buf, header=True, index=False)
-csv_buf.seek(0)
-s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
+    hc = pd.read_csv(fileName)
+    csv_buf = StringIO()
+    hc.to_csv(csv_buf, header=True, index=False)
+    csv_buf.seek(0)
+    s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
 
-# current_day = date.today()
-# current_day = current_day.strftime("%m-%d-%Y")
-# if (today != current_day):
-#   os.remove(fileName)
-#   today == current_day
-#   fileName = newFile(today)
-#   s3 = boto3.client('s3')
+    current_day = date.today()
+    current_day = current_day.strftime("%m-%d-%Y")
+    if (today != current_day):
+        os.remove(fileName)
+        today == current_day
+        fileName = newFile(today)
+        False
+    fileName = newFile(today)
 
