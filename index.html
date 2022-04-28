@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8">
+    <title>CSV Viewer</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    
+    <div class = "head">
+      <h1 class = "heading">Winston Cone Optics - 302</h1>
+      <input type="file" id="csvFileInput" style="padding-bottom: 20px" class = "button">
+<!-- <li><a href="https://302-storage.s3.us-west-1.amazonaws.com/user.csv" class="link1">Weekly</a></li>
+      <li><a href="https://302-storage.s3.us-west-1.amazonaws.com/user.csv" class="link2">Monthly</a></li>
+      <li><button onclick= "function3()" id ="all">ALL</button></li> -->      
+    </div>
+    <table id="csvRoot"></table>
+      
+    <script  src="./lib/papaparse.min.js"></script>
+    <script  src="./script.js"></script>
+
+  </body>
+</html>
