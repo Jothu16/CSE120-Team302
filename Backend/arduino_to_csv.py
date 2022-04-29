@@ -17,7 +17,7 @@ def newFile(file_name):
 
 
 
-port = "/dev/ttyACM1" # Replace the xxx with the arduino serial protected
+port = "/dev/ttyACM2" # Replace the xxx with the arduino serial protected
 baud = 115200 # Arduino p1am board runs at a baud of 115200
 ser = serial.Serial(port, baud, timeout = 1)
 
@@ -43,18 +43,17 @@ while (True):
 
     file.close()
 
-    hc = pd.read_csv(fileName)
-    csv_buf = StringIO()
-    hc.to_csv(csv_buf, header=True, index=False)
-    csv_buf.seek(0)
-    s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
+    # hc = pd.read_csv(fileName)
+    # csv_buf = StringIO()
+    # hc.to_csv(csv_buf, header=True, index=False)
+    # csv_buf.seek(0)
+    # s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
 
     current_day = date.today()
     current_day = current_day.strftime("%m-%d-%Y")
     if (today != current_day):
         os.remove(fileName)
-        today == current_day
-        fileName = newFile(today)
-        False
-    fileName = newFile(today)
+        today = current_day
+        fileName = newFile(current_day)
+   
 
