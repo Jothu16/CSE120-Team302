@@ -10,11 +10,11 @@ Make sure to have Python3 downloaded first
 
 HERE ARE THE FOLLOWING CREDENTIALS FOR THIS PROJECT:
 
-        USERNAME: 302
-        PASSWORD: teAmoptic302
-        ACCESS KEY: AKIAQKPHMFCBYUOUF5M5
-        SECRET ACCESS KEY: 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
-        CONSOLE LOGIN: https://022496946307.signin.aws.amazon.com/console 
+        USERNAME: ***
+        PASSWORD: ****
+        ACCESS KEY: ****
+        SECRET ACCESS KEY: ****
+        CONSOLE LOGIN: ****
 
 
 
@@ -32,11 +32,11 @@ HERE ARE THE FOLLOWING CREDENTIALS FOR THIS PROJECT:
     
     ENTER AWS ACCESS KEY ID:
 
-        AKIAQKPHMFCBYUOUF5M5
+        ****
 
     ENTER AWS SECRET ACCESS KEY:
 
-        omAbEBrEc67EiRZhxIuAqNhmI3WTBHoRQZu1V6Z5
+        ****
 
     ENTER DEFAULT REGION NAME:
 
