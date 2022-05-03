@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8">
+    <title>CSV Viewer</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <div class="topnav">
+    <a class="active" href="index.html">Home</a>
+    <a href="Weekly.html">Weekly</a>
+    <a href="Monthly.html">Monthly</a>
+    <a href="Functionality.html">Functionality</a>
+    <a href="Graphs.html">Graphs</a>
+    <a href="#about">About Us</a>
+  </div>
+
+  <body>
+
+    <div class = "head">
+      <h1 class = "heading">Graphs</h1>
+
+<div>
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const labels = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+  ];
+
+  const data = {
+    labels: labels,
+    datasets: [{
+      label: 'My First dataset',
+      backgroundColor: 'rgb(255, 99, 132)',
+      borderColor: 'rgb(255, 99, 132)',
+      data: [0, 10, 5, 2, 20, 30, 45],
+    }]
+  };
+
+  const config = {
+    type: 'line',
+    data: data,
+    options: {}
+  };
+</script>
+
+<script>
+  const myChart = new Chart(
+    document.getElementById('myChart'),
+    config
+  );
+</script>
