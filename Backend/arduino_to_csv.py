@@ -43,11 +43,11 @@ while (True):
 
     file.close()
 
-    # hc = pd.read_csv(fileName)
-    # csv_buf = StringIO()
-    # hc.to_csv(csv_buf, header=True, index=False)
-    # csv_buf.seek(0)
-    # s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
+    hc = pd.read_csv(fileName)
+    csv_buf = StringIO()
+    hc.to_csv(csv_buf, header=True, index=False)
+    csv_buf.seek(0)
+    s3.put_object(Bucket='optic302', Body = csv_buf.getvalue(), Key = fileName)
 
     current_day = date.today()
     current_day = current_day.strftime("%m-%d-%Y")
