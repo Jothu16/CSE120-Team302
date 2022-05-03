@@ -24,10 +24,10 @@ This ONLY runs on the P1AM board. This CANNOT compile or run in any other IDE, e
 python script that takes in data from arduino then formats it into a csv file, and uploads that csv file to our team's S3 Bucket. 
 The code can also be used just to create csv files without uploading them to the cloud. 
 
-##s3bucket
+## s3bucket
 
 In order to use the front end portion of this code you will have to access to AWS and your own S3 bucket. 
 
-##Front-End
+## Front-End
 
 
