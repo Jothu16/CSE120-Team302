@@ -1,8 +1,9 @@
+
+
 #ifndef PUMP_h
 #define PUMP_h
 
 #include "Arduino.h"
-
 
 class Pump{
 private:
@@ -12,7 +13,7 @@ private:
 public:
     // Methods
     Pump(int new_pin);
-    bool get_status();
+    void get_status();
     void set(bool set);
 };
 
@@ -24,8 +25,8 @@ Pump::Pump(int new_pin){
     pinMode(pin, OUTPUT);
     pump_status = false;
     digitalWrite(pin, LOW);
-    Serial.write("Pump has been turned on. Pump is set to off.")
 }
+
 
 void Pump::set(bool set_to){
     // Sets the pump to the input on/off
@@ -34,21 +35,22 @@ void Pump::set(bool set_to){
     // If the pump is set to on, turn the pump on
     if(pump_status == true){
         digitalWrite(pin, HIGH);
-        Serial.println("Pump set to on");
     }
 
     // Turns the pump off
     else{
         digitalWrite(pin, LOW);
-        Serial.println("Pump set to off");
     }
 }
 
 // Returns the pumps status on/off
-bool Pump::get_status(){
-    Serial.write(pump_status); // Sends the status to the connected computer
-    Serial.print("Pump status: ");
-    Serial.print(pump_status);
+void Pump::get_status(){
+    if(pump_status == true){
+      Serial.print("On");
+    }
+    else{
+        Serial.print("Off");
+    }
 }
 
 //Since it is constantly running, I don't think a deconstructor 

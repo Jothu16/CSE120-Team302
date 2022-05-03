@@ -11,47 +11,71 @@ bool on = true, off = false;
 
 // Setting the pin values
 int pump_pin = 14;
-int wind_direction_pin = 10;
-int wind_direction_data = 0;
-String sensor1 = "Wind direction";
+
 
 // Initializing the classes
-Pump test_pump(on);
-Sensors wind_direction(wind_direction_pin);
-//Sensors wind_direction(sensor1, wind_direction_pin);
+Pump test_pump(14);
+Sensors wind_direction(1);
+Sensors ambient_temp(2);
+Sensors solar_irradiance(3);
+Sensors collector_inlet(4);
+Sensors collector_outlet(5);
+Sensors tank_inlet(6);
+Sensors tank_outlet(10);
+Sensors loop_pressure(11);
+Sensors flow_meter(12);
+Sensors wind_speed(13);
+
 
 void setup() { 
-    // Baud set to 115200
     Serial.begin(115200);
     wind_direction.set_type("Wind_direction");
+    ambient_temp.set_type("Ambient_temp");
+    solar_irradiance.set_type("Solar_irradiance");
+    collector_inlet.set_type("Collector_inlet");
+    collector_outlet.set_type("Collector_outlet");
+    tank_inlet.set_type("Tank_inlet");
+    tank_outlet.set_type("Tank_outlet");
+    loop_pressure.set_type("Loop_pressure");
+    flow_meter.set_type("Flow_meter");
+    wind_speed.set_type("Wind_speed");
 }
 
 void loop() {
   
-    // Testing Pump
-    test_pump.set(off);
-    test_pump.set(on);
+    wind_direction.set_data();  // Sends the data to be filtered
+    wind_direction.get_data();  // Prints the data back out
+    Serial.print(", ");
+    ambient_temp.set_data();  // Sends the data to be filtered
+    ambient_temp.get_data();  // Prints the data back out
+    Serial.print(", ");
+    solar_irradiance.set_data();  // Sends the data to be filtered
+    solar_irradiance.get_data();  // Prints the data back out
+    Serial.print(", ");
+    collector_inlet.set_data();  // Sends the data to be filtered
+    collector_inlet.get_data();  // Prints the data back out
+    Serial.print(", ");
+    collector_outlet.set_data();  // Sends the data to be filtered
+    collector_outlet.get_data();  // Prints the data back out
+    Serial.print(", ");
+    tank_inlet.set_data();  // Sends the data to be filtered
+    tank_inlet.get_data();  // Prints the data back out
+    Serial.print(", ");
+    tank_outlet.set_data();  // Sends the data to be filtered
+    tank_outlet.get_data();  // Prints the data back out
+    Serial.print(", ");
+    loop_pressure.set_data();  // Sends the data to be filtered
+    loop_pressure.get_data();  // Prints the data back out
+    Serial.print(", ");
+    flow_meter.set_data();  // Sends the data to be filtered
+    flow_meter.get_data();  // Prints the data back out
+    Serial.print(", ");
+    wind_speed.set_data();  // Sends the data to be filtered
+    wind_speed.get_data();  // Prints the data back 
+    Serial.print(", ");
     test_pump.get_status();
+    Serial.println("");
 
-    // Testing the Sensots class
-    //wind_direction_data = analogRead(wind_direction_pin); // Reads the sensor values
-    //wind_direction_data = map(wind_direction_data, 0, 1023, 0, 255); // Sets a range for the inputs
-    wind_direction.set_data(analogRead(wind_direction_pin));   // Sends the data to be filtered
-    wind_direction.get_data(); // Prints the data back out
-    wind_direction.get_type();  // Tells me what sensor it is
-
-    // Setting a delay so it doesn't overload
+    // Setting a delay
     delay(1000);
 }
-
-/*
-Might add a loop that takes in the sensors in a vector then cycles through them
-
-
-    for (i in vector size){
-        current_data = analogRead(sensor pin);
-        vector[i].set_data(current_data);
-        vector[i].get_data();
-    }
-
-*/
