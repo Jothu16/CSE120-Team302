@@ -7,21 +7,23 @@ To use the P1AM-100, you need to follow the instructions posted on the public Gi
 ## Pump
 This header file is meant to control the relay connected to the pump.
 This holds a constructor as well as a get and set method that can be accessed by main and Sensors.
-The most important part of this is that the pummp class only relies funcitons as a way to use booleans to change the state of the relay attatched to the physical pump. 
+The most important part of this is that the pump class only relies Functions as a way to use booleans to change the state of the relay attached to the physical pump.
 For example, setting the pump to off will set the boolean to false, if the boolean is false then the realy will in turn shut the pump off.
 
 ## Sensor
 This header file is meant to make a class for each input sensor.
 The constructor takes in an integer value of the pin that it is associated with on the P1AM board.
-There is a get and set method for both the type of sensor as well as the data in the sensor respsectively.
+There is a get and set method for both the type of sensor as well as the data in the sensor respectively.
+
+The group was unable to do real world testing at the Castle facility and had to create fictional data to create csv files for demonstration purposes. The sensor file includes a switch statement which formats the data into the range of numbers possible.
 
 
 ## Arduino
 
-The arduino model being used is the P1AM with the folowing expansion:
+The arduino model being used is the P1AM with the following expansion:
 + GPIO
 + Ethernet
-+ Discrete input mudule
++ Discrete input module
 
 Other Specifications:
 Set the Baud to 115200
@@ -59,12 +61,12 @@ This information is board specific and can be found on the label of the ethernet
 Mac ID: 60:52:D0:06:81:C8
 
 This is how you would set up a webpage with the ethernet expansion
-byte mac[] = {0x60, 0x52, 0xD0, 0x06, 0x81, 0xC8}; 
+byte mac[] = {0x60, 0x52, 0xD0, 0x06, 0x81, 0xC8};
 IPAddress ip(192, 168, 1, 177);
 EthernetServer server(80) port
 
 
-### Descrete Input/Output Module
+### Discrete Input/Output Module
 
 24V
 4 input
