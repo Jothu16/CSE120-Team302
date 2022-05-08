@@ -30,4 +30,5 @@ In order to use the front end portion of this code you will have to access to AW
 
 ## Front-End
 
+Simple HTML and CSS styling to help display the CSV file from the S3bucket. To view the CSV file press download on the main page and the file will be displayed. The time of data is in intervals of one minute. 
 
