@@ -5,10 +5,10 @@ Arduino to CSV to Web App
 This project was completed for Winston Cone Optics in the spring of 2022 at the University of California Merced as part of the Software Engineering Capstone. 
 
 The authors are as follows:
-Andy Hernandez
-Austin Myhre
-Eric Solorio
-Harjot Grewal
+Andy Hernandez,
+Austin Myhre,
+Eric Solorio,
+Harjot Grewal,
 Navroop Khangura
 
 Please read the corresponding README for each section for instructions on how to use this repo properly. 
