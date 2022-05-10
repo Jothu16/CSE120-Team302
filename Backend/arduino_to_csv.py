@@ -24,6 +24,9 @@ ser = serial.Serial(port, baud, timeout = 1)
 
 today = date.today()
 today = today.strftime("%m-%d-%Y")
+#add name of file to dates.txt
+f = open("dates.txt","a+")
+f.write(today+"\n")
 current_day = today
 fileName = newFile(today)
 s3 = boto3.client('s3')
