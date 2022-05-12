@@ -1,6 +1,6 @@
 
-#include <P1_HSC.h> // Used for the analog input and output 24V
-#include <Ethernet.h> 
+// #include <P1_HSC.h> // Used for the analog input and output 24V
+// #include <Ethernet.h> 
 #include <P1AM.h>
 #include "Pump.h"
 #include "Sensors.h"
